@@ -10,9 +10,9 @@ Did you lock yourself out from Magento backend? <a href="https://github.com/mage
 
 ## Main features:
 
-* Providers:
+* Providers:rtg
     * Google authenticator
-        * QR code enroll
+        * QR code enrolyuil
     * Authy
         * SMS
         * Call
