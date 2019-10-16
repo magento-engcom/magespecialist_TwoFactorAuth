@@ -12,7 +12,7 @@ Did you lock yourself out from Magento backend? <a href="https://github.com/mage
 
 * Providers:
     * Google authenticator
-        * QR code enroll
+        * QR code enrolyuil
     * Authy
         * SMS
         * Call
